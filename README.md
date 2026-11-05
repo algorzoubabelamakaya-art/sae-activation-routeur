@@ -57,8 +57,15 @@ et affiche « conforme » ou « non conforme ».
 \## Outils
 
 Python (netmiko), routeur Cisco, GLPI, Observium, Git.
-#lien vers le gant
-https://docs.google.com/spreadsheets/d/10hOeDIhRc5ciRcgRU-lTnO2Zp_Q0nvidl1av7r6H9nQ/edit?usp=sharing
+
+## Suivi du projet
+
+- Planning prévisionnel et réel (Gantt) : https://docs.google.com/spreadsheets/d/10hOeDIhRc5ciRcgRU-lTnO2Zp_Q0nvidl1av7r6H9nQ/edit?usp=sharing
+- Tableau de suivi (Trello) : https://trello.com/b/8Mg88p1k/sae-mise-en-service-dun-routeur-client-b2b
+
+## Documents
+- Schéma d'architecture fonctionnel (global) : docs/schema_architecture_fonctionnelle_globale.png
+- Schéma de séquence de mise en service : à venir
 
 \## Auteure
 
